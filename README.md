@@ -4,6 +4,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/NTT%20Data-Senior%20Data%20Engineer-0072BC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MIT-Applied%20Data%20Science-A31F34?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MSc-Business%20Analytics%20(Hult)-111118?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BSc-Mechatronic%20Engineering%20(Insper)-111118?style=for-the-badge" />
 </p>
@@ -18,6 +19,16 @@
 - 🤖 Currently focused on **agent-driven data engineering**: contract-centric pipelines where AI agents handle the heavy lifting
 - 📚 Learning in public: **Databricks**, **AWS** data services and **Snowflake**
 - 🇧🇷 Brazilian, based in the US
+
+---
+
+### 🎓 Education & certifications
+
+| | Program | Institution | Year |
+|---|---|---|---|
+| <img src="https://img.shields.io/badge/-MIT-A31F34?style=flat-square" /> | **Applied Data Science Program** | MIT Professional Education | 2023 |
+| 🎓 | MSc in Business Analytics | Hult International Business School | |
+| 🎓 | BSc in Mechatronic Engineering | Insper | |
 
 ---
 
