@@ -27,8 +27,8 @@
 | | Program | Institution | Year |
 |---|---|---|---|
 | <img src="https://img.shields.io/badge/-MIT-A31F34?style=flat-square" /> | [**Applied Data Science Program**](https://github.com/arturlml/mit-applied-data-science) | MIT Professional Education | 2023 |
-| 🎓 | MSc in Business Analytics | Hult International Business School | 2023 |
-| 🎓 | BSc in Mechatronic Engineering | Insper | 2019 |
+| <img src="https://img.shields.io/badge/-Hult-1F2A44?style=flat-square" /> | MSc in Business Analytics | Hult International Business School | 2023 |
+| <img src="https://img.shields.io/badge/-Insper-1F2A44?style=flat-square" /> | BSc in Mechatronic Engineering | Insper | 2019 |
 
 ---
 
