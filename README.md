@@ -26,7 +26,7 @@
 
 | | Program | Institution | Year |
 |---|---|---|---|
-| <img src="https://img.shields.io/badge/-MIT-A31F34?style=flat-square" /> | **Applied Data Science Program** | MIT Professional Education | 2023 |
+| <img src="https://img.shields.io/badge/-MIT-A31F34?style=flat-square" /> | [**Applied Data Science Program**](https://github.com/arturlml/mit-applied-data-science) | MIT Professional Education | 2023 |
 | 🎓 | MSc in Business Analytics | Hult International Business School | |
 | 🎓 | BSc in Mechatronic Engineering | Insper | |
 
@@ -56,6 +56,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| 🎓 [**mit-applied-data-science**](https://github.com/arturlml/mit-applied-data-science) | MIT capstone on used-car price prediction (Lasso selected, 0.0033 train-test gap) plus regression and EDA projects | `scikit-learn` `statsmodels` |
 | 🍬 [**am-gummies-db**](https://github.com/arturlml/am-gummies-db) | Medallion architecture (bronze, silver, gold) on PostgreSQL with migrations, row-level security, lineage and a data catalog | `PostgreSQL` `Supabase` `Node.js` |
 | ☁️ [**aws-labs**](https://github.com/arturlml/aws-labs) | Hands-on AWS data engineering labs: S3 partitioning, Athena, Glue ETL to Parquet, mapped against Azure equivalents | `AWS` `PySpark` `SQL` |
 | ⚽ [**BetX**](https://github.com/arturlml/BetX) | Football corner-kick analytics across Serie A, Premier League and La Liga with rolling team features | `Python` `pandas` |
